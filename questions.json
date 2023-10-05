@@ -3,19 +3,19 @@
         "difficulty": "Easy",
         "question": "Quelle est la couleur du cheval blanc d'Henri IV",
         "correct_answer": 0,
-        "answers": ["Blanc", "Rouge", "Bleu", "Ne sait pas"]
+        "answers": ["Blanc", "Rouge", "Bleu", "Ne sais pas"]
     },
     {
         "difficulty": "Normal",
         "question": "Combien de continents y a-t-il dans le monde?",
         "correct_answer": 0,
-        "answers": ["6", "5", "7", "Ne sait pas"]
+        "answers": ["6", "5", "7", "Ne sais pas"]
     },
     {
         "difficulty": "Hard",
         "question": "Quelle est la capitale du Kazakhstan?",
         "correct_answer": 0,
-        "answers": ["Nur-Sultan", "Astana", "Almaty", "Ne sait pas"]
+        "answers": ["Nur-Sultan", "Astana", "Almaty", "Ne sais pas"]
     },
     {
         "difficulty": "Easy",
@@ -27,13 +27,13 @@
         "difficulty": "Normal",
         "question": "Qui a écrit 'Romeo et Juliette'?",
         "correct_answer": 0,
-        "answers": ["William Shakespeare", "Charles Dickens", "Jane Austen", "Ne sait pas"]
+        "answers": ["William Shakespeare", "Charles Dickens", "Jane Austen", "Ne sais pas"]
     },
     {
         "difficulty": "Hard",
         "question": "Quelle est la hauteur de l'Everest?",
         "correct_answer": 0,
-        "answers": ["8848 mètres", "9000 mètres", "8500 mètres", "Ne sait pas"]
+        "answers": ["8848 mètres", "9000 mètres", "8500 mètres", "Ne sais pas"]
     },
     {
         "difficulty": "Easy",
@@ -45,7 +45,7 @@
         "difficulty": "Normal",
         "question": "En quelle année a eu lieu la Révolution française?",
         "correct_answer": 0,
-        "answers": ["1789", "1800", "1750", "Ne sait pas"]
+        "answers": ["1789", "1800", "1750", "Ne sais pas"]
     },
     {
         "difficulty": "Hard",
@@ -57,25 +57,25 @@
         "difficulty": "Easy",
         "question": "Quelle planète est appelée la 'Planète Rouge'?",
         "correct_answer": 0,
-        "answers": ["Mars", "Vénus", "Jupiter", "Ne sait pas"]
+        "answers": ["Mars", "Vénus", "Jupiter", "Ne sais pas"]
     },
     {
         "difficulty": "Normal",
         "question": "Quelle est la capitale de l'Australie?",
         "correct_answer": 0,
-        "answers": ["Canberra", "Sydney", "Melbourne", "Ne sait pas"]
+        "answers": ["Canberra", "Sydney", "Melbourne", "Ne sais pas"]
     },
     {
         "difficulty": "Easy",
         "question": "Quel est le plus grand animal terrestre?",
         "correct_answer": 0,
-        "answers": ["Éléphant", "Girafe", "Hippopotame", "Ne sait pas"]
+        "answers": ["Éléphant", "Girafe", "Hippopotame", "Ne sais pas"]
     },
     {
         "difficulty": "Hard",
         "question": "Quelle est la distance moyenne de la Terre à la Lune?",
         "correct_answer": 0,
-        "answers": ["238,855 miles", "400,000 miles", "150,000 miles", "Ne sait pas"]
+        "answers": ["238,855 miles", "400,000 miles", "150,000 miles", "Ne sais pas"]
     },
     {
         "difficulty": "Easy",
@@ -87,156 +87,156 @@
         "difficulty": "Normal",
         "question": "Quelle est la capitale du Canada?",
         "correct_answer": 0,
-        "answers": ["Ottawa", "Toronto", "Vancouver", "Ne sait pas"]
+        "answers": ["Ottawa", "Toronto", "Vancouver", "Ne sais pas"]
     },
     {
         "difficulty": "Hard",
         "question": "Quelle est la plus longue rivière du monde?",
         "correct_answer": 0,
-        "answers": ["Nil", "Amazone", "Mississippi", "Ne sait pas"]
+        "answers": ["Nil", "Amazone", "Mississippi", "Ne sais pas"]
     },
     {
         "difficulty": "Easy",
         "question": "Quel est le plus grand lac du monde?",
         "correct_answer": 0,
-        "answers": ["Baïkal", "Supérieur", "Michigan", "Ne sait pas"]
+        "answers": ["Baïkal", "Supérieur", "Michigan", "Ne sais pas"]
     },
     {
         "difficulty": "Normal",
         "question": "Qui a découvert l'Amérique?",
         "correct_answer": 0,
-        "answers": ["Christophe Colomb", "Amerigo Vespucci", "Marco Polo", "Ne sait pas"]
+        "answers": ["Christophe Colomb", "Amerigo Vespucci", "Marco Polo", "Ne sais pas"]
     },
     {
         "difficulty": "Hard",
         "question": "Quel est le symbole chimique de l'or?",
         "correct_answer": 0,
-        "answers": ["Au", "Ag", "Fe", "Ne sait pas"]
+        "answers": ["Au", "Ag", "Fe", "Ne sais pas"]
     },
     {
         "difficulty": "Easy",
         "question": "Quel est le plus grand pays du monde?",
         "correct_answer": 0,
-        "answers": ["Russie", "Canada", "Chine", "Ne sait pas"]
+        "answers": ["Russie", "Canada", "Chine", "Ne sais pas"]
     },
     {
         "difficulty": "Normal",
         "question": "Quel est le plus grand fleuve d'Europe?",
         "correct_answer": 0,
-        "answers": ["Volga", "Danube", "Thames", "Ne sait pas"]
+        "answers": ["Volga", "Danube", "Thames", "Ne sais pas"]
     },
     {
         "difficulty": "Easy",
         "question": "Quelle est la capitale de la France?",
         "correct_answer": 0,
-        "answers": ["Paris", "Londres", "Berlin", "Ne sait pas"]
+        "answers": ["Paris", "Londres", "Berlin", "Ne sais pas"]
     },
     {
         "difficulty": "Hard",
         "question": "Quel est le mont le plus haut du monde?",
         "correct_answer": 0,
-        "answers": ["Everest", "K2", "Kangchenjunga", "Ne sait pas"]
+        "answers": ["Everest", "K2", "Kangchenjunga", "Ne sais pas"]
     },
     {
         "difficulty": "Normal",
         "question": "Quel est le plus grand animal marin?",
         "correct_answer": 0,
-        "answers": ["Baleine bleue", "Requin baleine", "Calmar géant", "Ne sait pas"]
+        "answers": ["Baleine bleue", "Requin baleine", "Calmar géant", "Ne sais pas"]
     },
     {
         "difficulty": "Easy",
         "question": "Quel est le pays le plus peuplé du monde?",
         "correct_answer": 0,
-        "answers": ["Chine", "Inde", "États-Unis", "Ne sait pas"]
+        "answers": ["Chine", "Inde", "États-Unis", "Ne sais pas"]
     },
     {
         "difficulty": "Hard",
         "question": "Quel est le livre le plus vendu de tous les temps?",
         "correct_answer": 0,
-        "answers": ["La Bible", "Le Coran", "Harry Potter", "Ne sait pas"]
+        "answers": ["La Bible", "Le Coran", "Harry Potter", "Ne sais pas"]
     },
     {
         "difficulty": "Normal",
         "question": "Quel est le plus grand désert froid du monde?",
         "correct_answer": 0,
-        "answers": ["Antarctique", "Arctique", "Gobi", "Ne sait pas"]
+        "answers": ["Antarctique", "Arctique", "Gobi", "Ne sais pas"]
     },
     {
         "difficulty": "Easy",
         "question": "Quelle est la monnaie de l'Allemagne?",
         "correct_answer": 0,
-        "answers": ["Euro", "Mark", "Franc", "Ne sait pas"]
+        "answers": ["Euro", "Mark", "Franc", "Ne sais pas"]
     },
     {
         "difficulty": "Hard",
         "question": "Quelle est la durée de vie moyenne d'un papillon?",
         "correct_answer": 0,
-        "answers": ["Deux semaines", "Un jour", "Un mois", "Ne sait pas"]
+        "answers": ["Deux semaines", "Un jour", "Un mois", "Ne sais pas"]
     },
     {
         "difficulty": "Normal",
         "question": "Quelle est la langue la plus parlée au monde?",
         "correct_answer": 0,
-        "answers": ["Chinois mandarin", "Anglais", "Espagnol", "Ne sait pas"]
+        "answers": ["Chinois mandarin", "Anglais", "Espagnol", "Ne sais pas"]
     },
     {
         "difficulty": "Easy",
         "question": "Quel est le plus grand producteur de café au monde?",
         "correct_answer": 0,
-        "answers": ["Brésil", "Colombie", "Vietnam", "Ne sait pas"]
+        "answers": ["Brésil", "Colombie", "Vietnam", "Ne sais pas"]
     },
     {
         "difficulty": "Hard",
         "question": "Quelle est la vitesse de la lumière?",
         "correct_answer": 0,
-        "answers": ["299,792 kilomètres par seconde", "100,000 kilomètres par seconde", "500,000 kilomètres par seconde", "Ne sait pas"]
+        "answers": ["299,792 kilomètres par seconde", "100,000 kilomètres par seconde", "500,000 kilomètres par seconde", "Ne sais pas"]
     },
     {
         "difficulty": "Normal",
         "question": "Quel est le plus grand océan du monde?",
         "correct_answer": 0,
-        "answers": ["Pacifique", "Atlantique", "Indien", "Ne sait pas"]
+        "answers": ["Pacifique", "Atlantique", "Indien", "Ne sais pas"]
     },
     {
         "difficulty": "Easy",
         "question": "Quel est le symbole chimique de l'eau?",
         "correct_answer": 0,
-        "answers": ["H2O", "O2", "CO2", "Ne sait pas"]
+        "answers": ["H2O", "O2", "CO2", "Ne sais pas"]
     },
     {
         "difficulty": "Hard",
         "question": "Quel est le record du monde du saut en hauteur?",
         "correct_answer": 0,
-        "answers": ["2,45 mètres", "2,20 mètres", "2,60 mètres", "Ne sait pas"]
+        "answers": ["2,45 mètres", "2,20 mètres", "2,60 mètres", "Ne sais pas"]
     },
     {
         "difficulty": "Normal",
         "question": "Quel est le pays le plus petit du monde?",
         "correct_answer": 0,
-        "answers": ["Vatican", "Monaco", "Nauru", "Ne sait pas"]
+        "answers": ["Vatican", "Monaco", "Nauru", "Ne sais pas"]
     },
     {
         "difficulty": "Easy",
         "question": "Quel est le symbole chimique de l'oxygène?",
         "correct_answer": 0,
-        "answers": ["O2", "O", "H2O", "Ne sait pas"]
+        "answers": ["O2", "O", "H2O", "Ne sais pas"]
     },
     {
         "difficulty": "Hard",
         "question": "Quelle est la durée de vie moyenne d'un éléphant?",
         "correct_answer": 0,
-        "answers": ["60-70 ans", "40-50 ans", "80-90 ans", "Ne sait pas"]
+        "answers": ["60-70 ans", "40-50 ans", "80-90 ans", "Ne sais pas"]
     },
     {
         "difficulty": "Normal",
         "question": "Quel est le plus grand lac salé du monde?",
         "correct_answer": 0,
-        "answers": ["Mer Caspienne", "Lac Assal", "Grand Lac Salé", "Ne sait pas"]
+        "answers": ["Mer Caspienne", "Lac Assal", "Grand Lac Salé", "Ne sais pas"]
     },
     {
         "difficulty": "Easy",
         "question": "Quelle est la planète la plus proche du Soleil?",
         "correct_answer": 0,
-        "answers": ["Mercure", "Vénus", "Terre", "Ne sait pas"]
+        "answers": ["Mercure", "Vénus", "Terre", "Ne sais pas"]
     }
 ]
