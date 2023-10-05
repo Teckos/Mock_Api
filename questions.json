@@ -8,25 +8,25 @@
     {
         "difficulty": "Normal",
         "question": "Combien de continents y a-t-il dans le monde?",
-        "correct_answer": 1,
-        "answers": ["5", "6", "7", "Ne sait pas"]
+        "correct_answer": 0,
+        "answers": ["6", "5", "7", "Ne sait pas"]
     },
     {
         "difficulty": "Hard",
         "question": "Quelle est la capitale du Kazakhstan?",
-        "correct_answer": 2,
-        "answers": ["Astana", "Almaty", "Nur-Sultan", "Ne sait pas"]
+        "correct_answer": 0,
+        "answers": ["Nur-Sultan", "Astana", "Almaty", "Ne sait pas"]
     },
     {
         "difficulty": "Easy",
         "question": "Quel est le plus grand océan du monde?",
-        "correct_answer": 3,
-        "answers": ["Atlantique", "Indien", "Arctique", "Pacifique"]
+        "correct_answer": 0,
+        "answers": ["Pacifique", "Atlantique", "Indien", "Arctique"]
     },
     {
         "difficulty": "Normal",
         "question": "Qui a écrit 'Romeo et Juliette'?",
-        "correct_answer": 1,
+        "correct_answer": 0,
         "answers": ["William Shakespeare", "Charles Dickens", "Jane Austen", "Ne sait pas"]
     },
     {
@@ -38,7 +38,7 @@
     {
         "difficulty": "Easy",
         "question": "Quel est le plus grand désert du monde?",
-        "correct_answer": 2,
+        "correct_answer": 0,
         "answers": ["Sahara", "Arctique", "Antarctique", "Gobi"]
     },
     {
@@ -50,43 +50,43 @@
     {
         "difficulty": "Hard",
         "question": "Quel est le composant principal de l'air?",
-        "correct_answer": 3,
+        "correct_answer": 0,
         "answers": ["Azote", "Oxygène", "Dioxyde de carbone", "Argon"]
     },
     {
         "difficulty": "Easy",
         "question": "Quelle planète est appelée la 'Planète Rouge'?",
-        "correct_answer": 1,
-        "answers": ["Vénus", "Mars", "Jupiter", "Ne sait pas"]
+        "correct_answer": 0,
+        "answers": ["Mars", "Vénus", "Jupiter", "Ne sait pas"]
     },
     {
         "difficulty": "Normal",
         "question": "Quelle est la capitale de l'Australie?",
         "correct_answer": 0,
-        "answers": ["Sydney", "Melbourne", "Canberra", "Ne sait pas"]
+        "answers": ["Canberra", "Sydney", "Melbourne", "Ne sait pas"]
     },
     {
         "difficulty": "Easy",
         "question": "Quel est le plus grand animal terrestre?",
-        "correct_answer": 2,
+        "correct_answer": 0,
         "answers": ["Éléphant", "Girafe", "Hippopotame", "Ne sait pas"]
     },
     {
         "difficulty": "Hard",
         "question": "Quelle est la distance moyenne de la Terre à la Lune?",
-        "correct_answer": 1,
+        "correct_answer": 0,
         "answers": ["238,855 miles", "400,000 miles", "150,000 miles", "Ne sait pas"]
     },
     {
         "difficulty": "Easy",
         "question": "Quelle est la monnaie du Japon?",
         "correct_answer": 3,
-        "answers": ["Won", "Yuan", "Baht", "Yen"]
+        "answers": ["Yen", "Won", "Yuan", "Baht"]
     },
     {
         "difficulty": "Normal",
         "question": "Quelle est la capitale du Canada?",
-        "correct_answer": 2,
+        "correct_answer": 0,
         "answers": ["Ottawa", "Toronto", "Vancouver", "Ne sait pas"]
     },
     {
@@ -98,8 +98,8 @@
     {
         "difficulty": "Easy",
         "question": "Quel est le plus grand lac du monde?",
-        "correct_answer": 1,
-        "answers": ["Supérieur", "Baïkal", "Michigan", "Ne sait pas"]
+        "correct_answer": 0,
+        "answers": ["Baïkal", "Supérieur", "Michigan", "Ne sait pas"]
     },
     {
         "difficulty": "Normal",
@@ -110,7 +110,7 @@
     {
         "difficulty": "Hard",
         "question": "Quel est le symbole chimique de l'or?",
-        "correct_answer": 3,
+        "correct_answer": 0,
         "answers": ["Au", "Ag", "Fe", "Ne sait pas"]
     },
     {
@@ -122,7 +122,7 @@
     {
         "difficulty": "Normal",
         "question": "Quel est le plus grand fleuve d'Europe?",
-        "correct_answer": 1,
+        "correct_answer": 0,
         "answers": ["Volga", "Danube", "Thames", "Ne sait pas"]
     },
     {
@@ -134,19 +134,19 @@
     {
         "difficulty": "Hard",
         "question": "Quel est le mont le plus haut du monde?",
-        "correct_answer": 2,
+        "correct_answer": 0,
         "answers": ["Everest", "K2", "Kangchenjunga", "Ne sait pas"]
     },
     {
         "difficulty": "Normal",
         "question": "Quel est le plus grand animal marin?",
-        "correct_answer": 3,
+        "correct_answer": 0,
         "answers": ["Baleine bleue", "Requin baleine", "Calmar géant", "Ne sait pas"]
     },
     {
         "difficulty": "Easy",
         "question": "Quel est le pays le plus peuplé du monde?",
-        "correct_answer": 2,
+        "correct_answer": 0,
         "answers": ["Chine", "Inde", "États-Unis", "Ne sait pas"]
     },
     {
@@ -158,20 +158,20 @@
     {
         "difficulty": "Normal",
         "question": "Quel est le plus grand désert froid du monde?",
-        "correct_answer": 1,
+        "correct_answer": 0,
         "answers": ["Antarctique", "Arctique", "Gobi", "Ne sait pas"]
     },
     {
         "difficulty": "Easy",
         "question": "Quelle est la monnaie de l'Allemagne?",
-        "correct_answer": 3,
+        "correct_answer": 0,
         "answers": ["Euro", "Mark", "Franc", "Ne sait pas"]
     },
     {
         "difficulty": "Hard",
         "question": "Quelle est la durée de vie moyenne d'un papillon?",
-        "correct_answer": 1,
-        "answers": ["Un jour", "Deux semaines", "Un mois", "Ne sait pas"]
+        "correct_answer": 0,
+        "answers": ["Deux semaines", "Un jour", "Un mois", "Ne sait pas"]
     },
     {
         "difficulty": "Normal",
@@ -182,7 +182,7 @@
     {
         "difficulty": "Easy",
         "question": "Quel est le plus grand producteur de café au monde?",
-        "correct_answer": 2,
+        "correct_answer": 0,
         "answers": ["Brésil", "Colombie", "Vietnam", "Ne sait pas"]
     },
     {
@@ -194,13 +194,13 @@
     {
         "difficulty": "Normal",
         "question": "Quel est le plus grand océan du monde?",
-        "correct_answer": 3,
+        "correct_answer": 0,
         "answers": ["Pacifique", "Atlantique", "Indien", "Ne sait pas"]
     },
     {
         "difficulty": "Easy",
         "question": "Quel est le symbole chimique de l'eau?",
-        "correct_answer": 1,
+        "correct_answer": 0,
         "answers": ["H2O", "O2", "CO2", "Ne sait pas"]
     },
     {
@@ -212,25 +212,25 @@
     {
         "difficulty": "Normal",
         "question": "Quel est le pays le plus petit du monde?",
-        "correct_answer": 2,
+        "correct_answer": 0,
         "answers": ["Vatican", "Monaco", "Nauru", "Ne sait pas"]
     },
     {
         "difficulty": "Easy",
         "question": "Quel est le symbole chimique de l'oxygène?",
         "correct_answer": 0,
-        "answers": ["O", "O2", "H2O", "Ne sait pas"]
+        "answers": ["O2", "O", "H2O", "Ne sait pas"]
     },
     {
         "difficulty": "Hard",
         "question": "Quelle est la durée de vie moyenne d'un éléphant?",
-        "correct_answer": 1,
+        "correct_answer": 0,
         "answers": ["60-70 ans", "40-50 ans", "80-90 ans", "Ne sait pas"]
     },
     {
         "difficulty": "Normal",
         "question": "Quel est le plus grand lac salé du monde?",
-        "correct_answer": 2,
+        "correct_answer": 0,
         "answers": ["Mer Caspienne", "Lac Assal", "Grand Lac Salé", "Ne sait pas"]
     },
     {
