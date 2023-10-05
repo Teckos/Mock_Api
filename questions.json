@@ -1,0 +1,62 @@
+[
+  {
+    "difficulty": "Easy",
+    "question": "Quelle est la couleur du cheval blanc d'Henri IV",
+    "correct_answer": 0,
+    "answers": ["Blanc", "Rouge", "Bleu", "Ne sait pas"]
+  },
+  {
+    "difficulty": "Normal",
+    "question": "Combien de continents y a-t-il dans le monde?",
+    "correct_answer": 1,
+    "answers": ["5", "6", "7", "Ne sait pas"]
+  },
+  {
+    "difficulty": "Hard",
+    "question": "Quelle est la capitale du Kazakhstan?",
+    "correct_answer": 2,
+    "answers": ["Astana", "Almaty", "Nur-Sultan", "Ne sait pas"]
+  },
+  {
+    "difficulty": "Easy",
+    "question": "Quel est le plus grand océan du monde?",
+    "correct_answer": 3,
+    "answers": ["Atlantique", "Indien", "Arctique", "Pacifique"]
+  },
+  {
+    "difficulty": "Normal",
+    "question": "Qui a écrit 'Romeo et Juliette'?",
+    "correct_answer": 1,
+    "answers": ["William Shakespeare", "Charles Dickens", "Jane Austen", "Ne sait pas"]
+  },
+  {
+    "difficulty": "Hard",
+    "question": "Quelle est la hauteur de l'Everest?",
+    "correct_answer": 0,
+    "answers": ["8848 mètres", "9000 mètres", "8500 mètres", "Ne sait pas"]
+  },
+  {
+    "difficulty": "Easy",
+    "question": "Quel est le plus grand désert du monde?",
+    "correct_answer": 2,
+    "answers": ["Sahara", "Arctique", "Antarctique", "Gobi"]
+  },
+  {
+    "difficulty": "Normal",
+    "question": "En quelle année a eu lieu la Révolution française?",
+    "correct_answer": 0,
+    "answers": ["1789", "1800", "1750", "Ne sait pas"]
+  },
+  {
+    "difficulty": "Hard",
+    "question": "Quel est le composant principal de l'air?",
+    "correct_answer": 3,
+    "answers": ["Azote", "Oxygène", "Dioxyde de carbone", "Argon"]
+  },
+  {
+    "difficulty": "Easy",
+    "question": "Quelle planète est appelée la 'Planète Rouge'?",
+    "correct_answer": 1,
+    "answers": ["Vénus", "Mars", "Jupiter", "Ne sait pas"]
+  }
+]
